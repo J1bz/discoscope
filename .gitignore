@@ -1,0 +1,7 @@
+config.json
+whois.json
+trombinoscope
+
+*.pyc
+__pycache__
+logs

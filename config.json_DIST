@@ -1,0 +1,7 @@
+{
+  "token": "YOUR TOKEN HERE",
+  "bot": {
+    "plugins": ["discoscope"],
+    "commands_require_mention": false
+  }
+}
